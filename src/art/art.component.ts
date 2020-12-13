@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { Picture } from '../Picture';
+import { Picture } from './Picture';
 
 @Component({
   selector: 'app-art',
